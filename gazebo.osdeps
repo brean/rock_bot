@@ -1,0 +1,83 @@
+libtinyxml:
+    debian,ubuntu:
+        - libtinyxml-dev
+
+
+
+
+libprotoc:
+    debian,ubuntu:
+        - libprotoc-dev
+
+libprotobuf:
+    debian,ubuntu:
+        - libprotobuf-dev
+
+protobuf-compiler:
+    debian,ubuntu:
+        - protobuf-compiler
+
+libtar:
+    debian,ubuntu:
+        - libtar-dev
+
+libcurl-ssl:
+    debian:
+        - libcurl-ssl-dev
+    ubuntu:
+        - libcurl4-openssl-dev
+
+libcegui-mk2:
+    debian,ubuntu:
+        - libcegui-mk2-dev
+
+libopenal:
+    debian,ubuntu:
+        - libopenal-dev
+    
+libtbb:
+    debian,ubuntu:
+        - libtbb-dev
+
+libswscale:
+    debian,ubuntu:
+        - libswscale-dev
+
+libavformat:
+    debian,ubuntu:
+        - libavformat-dev
+
+libavcodec:
+    debian,ubuntu:
+        - libavcodec-dev
+
+libogre:
+    debian:
+        - libogre-dev
+    ubuntu:
+        - libogre-1.8-dev
+
+    
+libgts:
+    debian,ubuntu:
+        - libgts-dev
+    
+libltdl:
+    debian,ubuntu:
+        - libltdl-dev
+    
+libplayerc++:
+    debian,ubuntu:
+        - libplayerc++3.0-dev
+    
+libfreeimage:
+    debian,ubuntu:
+        - libfreeimage-dev
+
+libbullet:
+    debian,ubuntu:
+        - libbullet-dev
+
+libfftw3:
+    debian,ubuntu:
+        - libfftw3-dev

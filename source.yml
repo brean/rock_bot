@@ -1,0 +1,17 @@
+name: rock_bot
+
+version_control:
+    - simulation/gazebo:
+        type: archive 
+        url: http://osrf-distributions.s3.amazonaws.com/gazebo/releases/gazebo-5.0.1.tar.bz2
+        update_cached_file: false
+
+    - simulation/gazebo_thruster:
+        github: Brazilian-Institute-of-Robotics/simulation-gazebo_thruster
+
+    - simulation/orogen/rock_gazebo:
+        github: Brazilian-Institute-of-Robotics/simulation-orogen-rock_gazebo
+
+    - simulation/rock_gazebo:
+        github: Brazilian-Institute-of-Robotics/simulation-rock_gazebo
+
