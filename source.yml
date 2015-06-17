@@ -15,6 +15,9 @@ version_control:
     - simulation/rock_gazebo:
         github: Brazilian-Institute-of-Robotics/simulation-rock_gazebo
 
+    - control/ruby_sdformat:
+        github: rock-control/control-ruby_sdformat
+
 overrides:
     # For JacobiSVD in ruby bindings (needed for SDF-to-thruster matrix code)
     - base/types:
